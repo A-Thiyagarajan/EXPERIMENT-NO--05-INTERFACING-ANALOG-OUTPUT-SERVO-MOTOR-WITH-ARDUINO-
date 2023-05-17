@@ -68,7 +68,9 @@ CIRCUIT DIAGRAM
 
 ## PROGRAM :
  ```
- #include<Servo.h>
+Developed by THIYAGARAJAN A
+Reg.no: 212222240110
+#include<Servo.h>
 Servo myservo;
 int value;
 double angle;
